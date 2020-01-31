@@ -1,0 +1,21 @@
+using systems;
+namespace vscode
+
+public class Example
+{
+   public static void Main()
+   {
+      int num = 4;
+      int productA = Square(num);
+
+      int productB = Square(12);
+
+      int productC = Square(productA * 3);
+   }
+   
+   static int Square(int i)
+   {
+      int input = i;
+      return input * input;
+   }
+}

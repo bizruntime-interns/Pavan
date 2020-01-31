@@ -1,0 +1,22 @@
+using System;
+using System.Linq.Expressions;
+
+namespace ConsoleApp8
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Expression<Func<int>> sum = () => 1 + 2;
+
+            var a = Expression.Constant(1, typeof(int));
+            var b = Expression.Constant(6, typeof(int));
+            var add = Expression.Add(a, b);
+            Console.WriteLine(add);
+        }
+    }
+}
+
+
+(1+6)
+

@@ -1,0 +1,28 @@
+using System;
+namespace exception
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int x = 0;
+            try
+            {
+                int y = 100 / x;
+            }
+            catch(ArithmeticException e)
+            {
+                Console.WriteLine($"Exception handler:{e}");
+				Console.ReadLine();
+            }
+            catch(Exception e)
+            {
+                Console.WriteLine($"generic excepyion handler:{e}");
+				Console.ReadLine();
+            }
+        }
+    }
+}
+
+Exception handler:System.DivideByZeroException: Attempted to divide by zero.
+   at exception.Program.Main(String[] args)

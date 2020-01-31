@@ -1,0 +1,38 @@
+using System;
+namespace largevalue
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int i, j, k;
+            Console.WriteLine("Enter 3 numbers:");
+            i = Convert.ToInt32(Console.ReadLine());
+            j = Convert.ToInt32(Console.ReadLine());
+            k = Convert.ToInt32(Console.ReadLine());
+            Console.ReadLine();
+            if (i > j)
+            {
+                if (i > k)
+                {
+                    Console.WriteLine("large num is:{ 0}", i);
+                }
+                else
+                
+                    Console.WriteLine("large num is:{ 0}", j);
+
+            else if (j > k)
+                {
+                    Console.WriteLine("large num is:{ 0}", j);
+                }
+                else
+                {
+                    Console.WriteLine("large num is:{ 0}", k);
+                }
+            }
+
+        }
+
+
+    }
+}

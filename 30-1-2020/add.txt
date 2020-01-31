@@ -1,0 +1,32 @@
+int a = 18;
+int b = 6;
+int c = a + b;
+Console.WriteLine(c);
+
+21
+
+
+
+using System;
+public class funcexer18
+{
+    public static int Sum(int num1, int num2)
+    {
+        int total;
+        total = num1 + num2;
+        return total;
+    }
+     
+    public static void Main()
+    {
+	  Console.Write("Enter num1: ");
+      int n1= Convert.ToInt32(Console.ReadLine());
+      Console.Write("Enter num2:");
+      int n2= Convert.ToInt32(Console.ReadLine());
+      Console.WriteLine("\nSum is : {0} \n", Sum(n1,n2) );
+    }
+}
+
+Enter num1: 5
+Enter num2: 1
+Sum is : 6
