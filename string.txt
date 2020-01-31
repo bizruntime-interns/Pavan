@@ -7,6 +7,3 @@ Console.WriteLine(songLyrics.Contains("goodbye"));
 Console.WriteLine(songLyrics.Contains("greetings"));
 Console.ReadLine();
 }
-
-
-You say 
