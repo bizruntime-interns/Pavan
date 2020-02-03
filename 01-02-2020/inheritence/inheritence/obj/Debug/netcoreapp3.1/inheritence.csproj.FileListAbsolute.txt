@@ -1,0 +1,10 @@
+C:\Users\NIKESH M R\source\repos\inheritence\inheritence\bin\Debug\netcoreapp3.1\inheritence.exe
+C:\Users\NIKESH M R\source\repos\inheritence\inheritence\bin\Debug\netcoreapp3.1\inheritence.deps.json
+C:\Users\NIKESH M R\source\repos\inheritence\inheritence\bin\Debug\netcoreapp3.1\inheritence.runtimeconfig.json
+C:\Users\NIKESH M R\source\repos\inheritence\inheritence\bin\Debug\netcoreapp3.1\inheritence.runtimeconfig.dev.json
+C:\Users\NIKESH M R\source\repos\inheritence\inheritence\bin\Debug\netcoreapp3.1\inheritence.dll
+C:\Users\NIKESH M R\source\repos\inheritence\inheritence\bin\Debug\netcoreapp3.1\inheritence.pdb
+C:\Users\NIKESH M R\source\repos\inheritence\inheritence\obj\Debug\netcoreapp3.1\inheritence.AssemblyInfoInputs.cache
+C:\Users\NIKESH M R\source\repos\inheritence\inheritence\obj\Debug\netcoreapp3.1\inheritence.AssemblyInfo.cs
+C:\Users\NIKESH M R\source\repos\inheritence\inheritence\obj\Debug\netcoreapp3.1\inheritence.dll
+C:\Users\NIKESH M R\source\repos\inheritence\inheritence\obj\Debug\netcoreapp3.1\inheritence.pdb

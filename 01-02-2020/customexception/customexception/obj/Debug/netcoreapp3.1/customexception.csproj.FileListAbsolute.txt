@@ -1,0 +1,11 @@
+C:\Users\NIKESH M R\source\repos\customexception\customexception\bin\Debug\netcoreapp3.1\customexception.exe
+C:\Users\NIKESH M R\source\repos\customexception\customexception\bin\Debug\netcoreapp3.1\customexception.deps.json
+C:\Users\NIKESH M R\source\repos\customexception\customexception\bin\Debug\netcoreapp3.1\customexception.runtimeconfig.json
+C:\Users\NIKESH M R\source\repos\customexception\customexception\bin\Debug\netcoreapp3.1\customexception.runtimeconfig.dev.json
+C:\Users\NIKESH M R\source\repos\customexception\customexception\bin\Debug\netcoreapp3.1\customexception.dll
+C:\Users\NIKESH M R\source\repos\customexception\customexception\bin\Debug\netcoreapp3.1\customexception.pdb
+C:\Users\NIKESH M R\source\repos\customexception\customexception\obj\Debug\netcoreapp3.1\customexception.csprojAssemblyReference.cache
+C:\Users\NIKESH M R\source\repos\customexception\customexception\obj\Debug\netcoreapp3.1\customexception.AssemblyInfoInputs.cache
+C:\Users\NIKESH M R\source\repos\customexception\customexception\obj\Debug\netcoreapp3.1\customexception.AssemblyInfo.cs
+C:\Users\NIKESH M R\source\repos\customexception\customexception\obj\Debug\netcoreapp3.1\customexception.dll
+C:\Users\NIKESH M R\source\repos\customexception\customexception\obj\Debug\netcoreapp3.1\customexception.pdb

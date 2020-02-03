@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>You are running out of time</p>
+
+<p id="demo">By working 3 days Contineously will be able to do</p>
+
+<button onclick="Schedule()">Dead Line</button>
+
+
+<script>
+function Schedule() 
+{
+  document.getElementById("demo").innerHTML = Boolean(82 /*hrs what we have*/ > 68/*Deadline in hrs*/);
+}
+</script>
+</body>
+</html> 

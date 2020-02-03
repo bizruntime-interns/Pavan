@@ -1,0 +1,10 @@
+C:\Users\NIKESH M R\source\repos\function\function\bin\Debug\netcoreapp3.1\function.exe
+C:\Users\NIKESH M R\source\repos\function\function\bin\Debug\netcoreapp3.1\function.deps.json
+C:\Users\NIKESH M R\source\repos\function\function\bin\Debug\netcoreapp3.1\function.runtimeconfig.json
+C:\Users\NIKESH M R\source\repos\function\function\bin\Debug\netcoreapp3.1\function.runtimeconfig.dev.json
+C:\Users\NIKESH M R\source\repos\function\function\bin\Debug\netcoreapp3.1\function.dll
+C:\Users\NIKESH M R\source\repos\function\function\bin\Debug\netcoreapp3.1\function.pdb
+C:\Users\NIKESH M R\source\repos\function\function\obj\Debug\netcoreapp3.1\function.AssemblyInfoInputs.cache
+C:\Users\NIKESH M R\source\repos\function\function\obj\Debug\netcoreapp3.1\function.AssemblyInfo.cs
+C:\Users\NIKESH M R\source\repos\function\function\obj\Debug\netcoreapp3.1\function.dll
+C:\Users\NIKESH M R\source\repos\function\function\obj\Debug\netcoreapp3.1\function.pdb
