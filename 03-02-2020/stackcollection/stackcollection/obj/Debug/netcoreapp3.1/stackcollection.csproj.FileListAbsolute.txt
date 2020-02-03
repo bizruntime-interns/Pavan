@@ -1,0 +1,11 @@
+C:\Users\NIKESH M R\source\repos\stackcollection\stackcollection\obj\Debug\netcoreapp3.1\stackcollection.csprojAssemblyReference.cache
+C:\Users\NIKESH M R\source\repos\stackcollection\stackcollection\obj\Debug\netcoreapp3.1\stackcollection.AssemblyInfoInputs.cache
+C:\Users\NIKESH M R\source\repos\stackcollection\stackcollection\obj\Debug\netcoreapp3.1\stackcollection.AssemblyInfo.cs
+C:\Users\NIKESH M R\source\repos\stackcollection\stackcollection\bin\Debug\netcoreapp3.1\stackcollection.exe
+C:\Users\NIKESH M R\source\repos\stackcollection\stackcollection\bin\Debug\netcoreapp3.1\stackcollection.deps.json
+C:\Users\NIKESH M R\source\repos\stackcollection\stackcollection\bin\Debug\netcoreapp3.1\stackcollection.runtimeconfig.json
+C:\Users\NIKESH M R\source\repos\stackcollection\stackcollection\bin\Debug\netcoreapp3.1\stackcollection.runtimeconfig.dev.json
+C:\Users\NIKESH M R\source\repos\stackcollection\stackcollection\bin\Debug\netcoreapp3.1\stackcollection.dll
+C:\Users\NIKESH M R\source\repos\stackcollection\stackcollection\bin\Debug\netcoreapp3.1\stackcollection.pdb
+C:\Users\NIKESH M R\source\repos\stackcollection\stackcollection\obj\Debug\netcoreapp3.1\stackcollection.dll
+C:\Users\NIKESH M R\source\repos\stackcollection\stackcollection\obj\Debug\netcoreapp3.1\stackcollection.pdb

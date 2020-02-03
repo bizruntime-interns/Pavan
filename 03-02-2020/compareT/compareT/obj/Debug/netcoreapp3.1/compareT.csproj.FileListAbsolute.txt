@@ -1,0 +1,10 @@
+C:\Users\NIKESH M R\source\repos\compareT\compareT\bin\Debug\netcoreapp3.1\compareT.exe
+C:\Users\NIKESH M R\source\repos\compareT\compareT\bin\Debug\netcoreapp3.1\compareT.deps.json
+C:\Users\NIKESH M R\source\repos\compareT\compareT\bin\Debug\netcoreapp3.1\compareT.runtimeconfig.json
+C:\Users\NIKESH M R\source\repos\compareT\compareT\bin\Debug\netcoreapp3.1\compareT.runtimeconfig.dev.json
+C:\Users\NIKESH M R\source\repos\compareT\compareT\bin\Debug\netcoreapp3.1\compareT.dll
+C:\Users\NIKESH M R\source\repos\compareT\compareT\bin\Debug\netcoreapp3.1\compareT.pdb
+C:\Users\NIKESH M R\source\repos\compareT\compareT\obj\Debug\netcoreapp3.1\compareT.AssemblyInfoInputs.cache
+C:\Users\NIKESH M R\source\repos\compareT\compareT\obj\Debug\netcoreapp3.1\compareT.AssemblyInfo.cs
+C:\Users\NIKESH M R\source\repos\compareT\compareT\obj\Debug\netcoreapp3.1\compareT.dll
+C:\Users\NIKESH M R\source\repos\compareT\compareT\obj\Debug\netcoreapp3.1\compareT.pdb

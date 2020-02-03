@@ -1,0 +1,11 @@
+C:\Users\NIKESH M R\source\repos\listcustomer\listcustomer\bin\Debug\netcoreapp3.1\listcustomer.exe
+C:\Users\NIKESH M R\source\repos\listcustomer\listcustomer\bin\Debug\netcoreapp3.1\listcustomer.deps.json
+C:\Users\NIKESH M R\source\repos\listcustomer\listcustomer\bin\Debug\netcoreapp3.1\listcustomer.runtimeconfig.json
+C:\Users\NIKESH M R\source\repos\listcustomer\listcustomer\bin\Debug\netcoreapp3.1\listcustomer.runtimeconfig.dev.json
+C:\Users\NIKESH M R\source\repos\listcustomer\listcustomer\bin\Debug\netcoreapp3.1\listcustomer.dll
+C:\Users\NIKESH M R\source\repos\listcustomer\listcustomer\bin\Debug\netcoreapp3.1\listcustomer.pdb
+C:\Users\NIKESH M R\source\repos\listcustomer\listcustomer\obj\Debug\netcoreapp3.1\listcustomer.csprojAssemblyReference.cache
+C:\Users\NIKESH M R\source\repos\listcustomer\listcustomer\obj\Debug\netcoreapp3.1\listcustomer.AssemblyInfoInputs.cache
+C:\Users\NIKESH M R\source\repos\listcustomer\listcustomer\obj\Debug\netcoreapp3.1\listcustomer.AssemblyInfo.cs
+C:\Users\NIKESH M R\source\repos\listcustomer\listcustomer\obj\Debug\netcoreapp3.1\listcustomer.dll
+C:\Users\NIKESH M R\source\repos\listcustomer\listcustomer\obj\Debug\netcoreapp3.1\listcustomer.pdb

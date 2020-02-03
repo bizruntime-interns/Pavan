@@ -1,0 +1,10 @@
+C:\Users\NIKESH M R\source\repos\linq\linq\bin\Debug\netcoreapp3.1\linq.exe
+C:\Users\NIKESH M R\source\repos\linq\linq\bin\Debug\netcoreapp3.1\linq.deps.json
+C:\Users\NIKESH M R\source\repos\linq\linq\bin\Debug\netcoreapp3.1\linq.runtimeconfig.json
+C:\Users\NIKESH M R\source\repos\linq\linq\bin\Debug\netcoreapp3.1\linq.runtimeconfig.dev.json
+C:\Users\NIKESH M R\source\repos\linq\linq\bin\Debug\netcoreapp3.1\linq.dll
+C:\Users\NIKESH M R\source\repos\linq\linq\bin\Debug\netcoreapp3.1\linq.pdb
+C:\Users\NIKESH M R\source\repos\linq\linq\obj\Debug\netcoreapp3.1\linq.AssemblyInfoInputs.cache
+C:\Users\NIKESH M R\source\repos\linq\linq\obj\Debug\netcoreapp3.1\linq.AssemblyInfo.cs
+C:\Users\NIKESH M R\source\repos\linq\linq\obj\Debug\netcoreapp3.1\linq.dll
+C:\Users\NIKESH M R\source\repos\linq\linq\obj\Debug\netcoreapp3.1\linq.pdb
