@@ -1,0 +1,10 @@
+C:\Users\NIKESH M R\source\repos\queuecollection\queuecollection\bin\Debug\netcoreapp3.1\queuecollection.exe
+C:\Users\NIKESH M R\source\repos\queuecollection\queuecollection\bin\Debug\netcoreapp3.1\queuecollection.deps.json
+C:\Users\NIKESH M R\source\repos\queuecollection\queuecollection\bin\Debug\netcoreapp3.1\queuecollection.runtimeconfig.json
+C:\Users\NIKESH M R\source\repos\queuecollection\queuecollection\bin\Debug\netcoreapp3.1\queuecollection.runtimeconfig.dev.json
+C:\Users\NIKESH M R\source\repos\queuecollection\queuecollection\bin\Debug\netcoreapp3.1\queuecollection.dll
+C:\Users\NIKESH M R\source\repos\queuecollection\queuecollection\bin\Debug\netcoreapp3.1\queuecollection.pdb
+C:\Users\NIKESH M R\source\repos\queuecollection\queuecollection\obj\Debug\netcoreapp3.1\queuecollection.AssemblyInfoInputs.cache
+C:\Users\NIKESH M R\source\repos\queuecollection\queuecollection\obj\Debug\netcoreapp3.1\queuecollection.AssemblyInfo.cs
+C:\Users\NIKESH M R\source\repos\queuecollection\queuecollection\obj\Debug\netcoreapp3.1\queuecollection.dll
+C:\Users\NIKESH M R\source\repos\queuecollection\queuecollection\obj\Debug\netcoreapp3.1\queuecollection.pdb

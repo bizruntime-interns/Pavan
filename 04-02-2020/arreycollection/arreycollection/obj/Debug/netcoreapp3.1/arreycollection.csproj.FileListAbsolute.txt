@@ -1,0 +1,11 @@
+C:\Users\NIKESH M R\source\repos\arreycollection\arreycollection\bin\Debug\netcoreapp3.1\arreycollection.exe
+C:\Users\NIKESH M R\source\repos\arreycollection\arreycollection\bin\Debug\netcoreapp3.1\arreycollection.deps.json
+C:\Users\NIKESH M R\source\repos\arreycollection\arreycollection\bin\Debug\netcoreapp3.1\arreycollection.runtimeconfig.json
+C:\Users\NIKESH M R\source\repos\arreycollection\arreycollection\bin\Debug\netcoreapp3.1\arreycollection.runtimeconfig.dev.json
+C:\Users\NIKESH M R\source\repos\arreycollection\arreycollection\bin\Debug\netcoreapp3.1\arreycollection.dll
+C:\Users\NIKESH M R\source\repos\arreycollection\arreycollection\bin\Debug\netcoreapp3.1\arreycollection.pdb
+C:\Users\NIKESH M R\source\repos\arreycollection\arreycollection\obj\Debug\netcoreapp3.1\arreycollection.csprojAssemblyReference.cache
+C:\Users\NIKESH M R\source\repos\arreycollection\arreycollection\obj\Debug\netcoreapp3.1\arreycollection.AssemblyInfoInputs.cache
+C:\Users\NIKESH M R\source\repos\arreycollection\arreycollection\obj\Debug\netcoreapp3.1\arreycollection.AssemblyInfo.cs
+C:\Users\NIKESH M R\source\repos\arreycollection\arreycollection\obj\Debug\netcoreapp3.1\arreycollection.dll
+C:\Users\NIKESH M R\source\repos\arreycollection\arreycollection\obj\Debug\netcoreapp3.1\arreycollection.pdb

@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Content</title>
+<style>
+table, th, td{
+border: 1px saddlebrown;
+border-collapse: collapse;
+}
+table, tb, th{
+padding : 5px;
+}
+</style>
+</head>
+<body>
+<table
+<h2>The content which you have requesting is here</h2>
+</br>
+</br>
+<button type="button" onclick="loadDoc">click here for the request</button>
+</br></br>
+<table id="test">
+
+<script>
+function loadDoc() {
+var xhttp= new XMLHttpRequest();
+xhttp.onreadystatechange= function(){
+if(this.readyState == 2 && this.status == 200){
+myFunction(this);
+}
+};
+xhttp.open("POST", "xml_link.xml", true);
+xhttp.send();
+}
+
+
+
+
+
+
+{
+ XMLHttpRequestObject = new XMLHttpRequest();
+ XMLHttpRequestObject.overrideMimeType("text/xml");
+ } else if (window.ActiveXObject) {
+ XMLHttpRequestObject = new
+ ActiveXObject("Microsoft.XMLHTTP");
+ }
+ 
+ }
+ </script>
+ <script language = "javascript">
+ function getData()
+ {
+ var XMLHttpRequestObject = false;
+ if (window.XMLHttpRequest) {
+ XMLHttpRequestObject = new XMLHttpRequest();
+ XMLHttpRequestObject.overrideMimeType("text/xml");
+ } else if (window.ActiveXObject) {
+ XMLHttpRequestObject = new
+ ActiveXObject("Microsoft.XMLHTTP");
+ }
+ if(XMLHttpRequestObject) {
+ XMLHttpRequestObject.open("POST", "party.xml", true);
+ XMLHttpRequestObject.onreadystatechange = function()
+ {
+ if (XMLHttpRequestObject.readyState == 4 &&
+ XMLHttpRequestObject.status == 200) {
+ var xmlDocument = XMLHttpRequestObject.responseXML;
+ displayGuest(xmlDocument);
+ }
+ }
+ XMLHttpRequestObject.send(null);
+ }
+ }
+ </script>
+ <script language = "javascript">
+ function displayGuest (xmldoc)
+ {
+  var partiesnode, partynode,peoplenode;
+  var FirstName, LastName, TextDisplay;
+  
+  
+  partiesnode = xmldoc.documentElement;
+  partynode=partiesnode.firstchild;
+  peolenode=partynode.last

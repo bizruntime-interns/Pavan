@@ -1,0 +1,11 @@
+C:\Users\NIKESH M R\source\repos\empcollection\empcollection\obj\Debug\netcoreapp3.1\empcollection.csprojAssemblyReference.cache
+C:\Users\NIKESH M R\source\repos\empcollection\empcollection\obj\Debug\netcoreapp3.1\empcollection.AssemblyInfoInputs.cache
+C:\Users\NIKESH M R\source\repos\empcollection\empcollection\obj\Debug\netcoreapp3.1\empcollection.AssemblyInfo.cs
+C:\Users\NIKESH M R\source\repos\empcollection\empcollection\bin\Debug\netcoreapp3.1\empcollection.exe
+C:\Users\NIKESH M R\source\repos\empcollection\empcollection\bin\Debug\netcoreapp3.1\empcollection.deps.json
+C:\Users\NIKESH M R\source\repos\empcollection\empcollection\bin\Debug\netcoreapp3.1\empcollection.runtimeconfig.json
+C:\Users\NIKESH M R\source\repos\empcollection\empcollection\bin\Debug\netcoreapp3.1\empcollection.runtimeconfig.dev.json
+C:\Users\NIKESH M R\source\repos\empcollection\empcollection\bin\Debug\netcoreapp3.1\empcollection.dll
+C:\Users\NIKESH M R\source\repos\empcollection\empcollection\bin\Debug\netcoreapp3.1\empcollection.pdb
+C:\Users\NIKESH M R\source\repos\empcollection\empcollection\obj\Debug\netcoreapp3.1\empcollection.dll
+C:\Users\NIKESH M R\source\repos\empcollection\empcollection\obj\Debug\netcoreapp3.1\empcollection.pdb

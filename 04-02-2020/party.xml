@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<parties>
+ <party type="winter">
+ <party_title>Snow Day</party_title>
+ <party_number>63</party_number>
+ <subject>No school today!</subject>
+ <date>2/2/2016</date>
+ <people>
+ <person attendance="present">
+ <first_name>Ram</first_name>
+ <last_name>Arora</last_name>
+ <person attendance="absent">
+ </person>
+ <first_name>Kalyan</first_name>
+ <last_name>Reddy</last_name>
+ </person>
+ <person attendance="present">
+ <first_name</first_name>
+ <last_name>Norton</last_name>
+ </person>
+ </people>
+ </party>
+</parties>

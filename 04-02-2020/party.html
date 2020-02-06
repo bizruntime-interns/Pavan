@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+</body>
+<h1>Retrieving the Guest list</h1>
+ <form>
+ <input type = "button" value = "Get the third guest"
+ onclick = "getData()">
+ </br>
+ </br>
+ </form>
+ <div id="targetDiv" width =100 height=100>
+ </div>
+ </body>
+ </head>
+
+ <script language = "javascript">
+ function getData()
+ {
+ var XMLHttpRequestObject = false;
+ if (window.XMLHttpRequestObject) {
+ XMLHttpRequestObject = new HMLHttpRequest();
+ XMLHttpRequestObject.overrideMimeType("test/xml");
+ } else if (windows.ActiveXobject) {
+ XMLHttpRequestObject = new 
+ ActiveXobject("Microsoft.XMLHttp")
+ }
+ 
+ 
+
+ 
+ 
+  
